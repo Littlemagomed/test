@@ -7,7 +7,7 @@ for i in range(1,6):
         if i==5 and n<=0 or m<=0:
             print("Congrates, You're idiot")
             break
-
+Print('it is OK')
 temp=m
 #s=0
 for j in range(1,n):
